@@ -1,3 +1,10 @@
+
+let preloader = document.getElementById('loading');
+
+function myFunction() {
+  preloader.style.display = 'none';
+}
+
 ///////  menu
     let n = 0;
     function mnu() {
